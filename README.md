@@ -17,7 +17,7 @@ I build modern, practical web apps and small desktop tools. Comfortable across f
 
 ## 🧰 Tech / Tools
 **Frontend:** `HTML` `CSS` `JavaScript` `jQuery` `Bootstrap` `Tailwind` `React` `TypeScript`  
-**Backend:** `PHP` `Laravel` `Python` 
+**Backend:** `PHP` `Laravel` `Python`  
 **DB:** `MySQL` `MongoDB`  
 **Tools:** `VS Code` `Docker` `Postman` `MySQL Workbench` `Figma` `Jira`  
 **OS:** `Arch Linux`
