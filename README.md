@@ -1,44 +1,55 @@
-# 👋 Hey there, I’m Mohammed Serraj!
+# 👋 Mohammed Serraj — Full-Stack Developer
 
-### 💻 Full-Stack Developer | 🐧 Arch Linux User | 🌍 Multilingual
+**Full-Stack | React • Laravel • Python • Arch Linux**  
+20 y.o — Based in Morocco
 
-I'm a 20-year-old Full-Stack Developer with experience in both frontend and backend technologies. I enjoy building modern and responsive web apps, learning new frameworks, and solving real problems with code.
-
----
-
-## 🚀 About Me
-- 🔭 I’m currently working on cool projects with React, Laravel, Python & more
-- 🌱 Always learning new tech and improving my skills
-- 💬 I speak **English** & **French** fluently, and **Spanish** at A2 level
-- 🐧 I use **Arch Linux** as my daily OS
+I build modern, practical web apps and small desktop tools. Comfortable across frontend & backend — from clean UI to APIs and databases.
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Frontend
-HTML • CSS • JavaScript • jQuery • Bootstrap • Tailwind  
-React • TypeScript
-
-### ⚙️ Backend
-PHP • Laravel • Python • Tkinter
-
-### 🗄️ Databases
-MySQL • MongoDB
-
-### 🧰 Tools
-VS Code • Jira • MySQL Workbench • Postman • Figma • Docker
+## 🔭 What I do
+- Build full-stack apps with **Laravel + React/TypeScript**  
+- Automations & small GUI tools in **Python (Tkinter)**  
+- Web scraping, data tooling, Dockerized deployments  
+- Ship features fast, test locally, deploy with Docker
 
 ---
 
-## 📫 How To Reach Me
-👉 LinkedIn: https://www.linkedin.com/in/mohammed-serraj-92a1a6334/  
-📧 Email: mohammedserraj@yahoo.com
+## 🧰 Tech / Tools
+**Frontend:** `HTML` `CSS` `JavaScript` `jQuery` `Bootstrap` `Tailwind` `React` `TypeScript`  
+**Backend:** `PHP` `Laravel` `Python` `Tkinter`  
+**DB:** `MySQL` `MongoDB`  
+**Tools:** `VS Code` `Docker` `Postman` `MySQL Workbench` `Figma` `Jira`  
+**OS:** `Arch Linux`
 
 ---
 
-## 📈 GitHub Stats (optional)
+## 🚩 Languages
+- English — fluent  
+- French — fluent  
+- Spanish — A2 (learning)
 
-```md
-![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedSerraj&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedSerraj&layout=compact&theme=github_dark)
+---
+
+## 📂 Selected projects
+- **AutoNews** — Python news scraper + translator → stores articles in MySQL (scraping, translation, image handling).  
+- **Books Borrowing App** — Desktop Tkinter app with admin dashboard, QR features, CRUD and persistence.  
+- **Driving Exam App (in dev)** — Mobile/web app for Moroccan driving rules — Arabic content & practice tests.
+
+(If you want, I’ll add direct repo links and short READMEs for each.)
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/mohammed-serraj-92a1a6334/  
+- Email: mohammedserraj@yahoo.com  
+- GitHub: `github.com/MohammedSerraj`
+
+---
+
+## ⚡ Want this instead?
+- Minimal technical resume style (one-liner + badges)  
+- More personality (fun facts, hobbies, music)  
+- Localized (French / Arabic) version
+
+Tell me which vibe: **minimal**, **dev-resume**, or **friendly + badges** — I’ll spit out that exact variant.
