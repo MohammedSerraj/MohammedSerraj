@@ -17,7 +17,7 @@ I build modern, practical web apps and small desktop tools. Comfortable across f
 
 ## 🧰 Tech / Tools
 **Frontend:** `HTML` `CSS` `JavaScript` `jQuery` `Bootstrap` `Tailwind` `React` `TypeScript`  
-**Backend:** `PHP` `Laravel` `Python` `Tkinter`  
+**Backend:** `PHP` `Laravel` `Python` 
 **DB:** `MySQL` `MongoDB`  
 **Tools:** `VS Code` `Docker` `Postman` `MySQL Workbench` `Figma` `Jira`  
 **OS:** `Arch Linux`
@@ -25,18 +25,11 @@ I build modern, practical web apps and small desktop tools. Comfortable across f
 ---
 
 ## 🚩 Languages
-- English — fluent  
-- French — fluent  
+- English —   (B1-B2)
+- French —   (B1-B2)
 - Spanish — A2 (learning)
 
----
 
-## 📂 Selected projects
-- **AutoNews** — Python news scraper + translator → stores articles in MySQL (scraping, translation, image handling).  
-- **Books Borrowing App** — Desktop Tkinter app with admin dashboard, QR features, CRUD and persistence.  
-- **Driving Exam App (in dev)** — Mobile/web app for Moroccan driving rules — Arabic content & practice tests.
-
-(If you want, I’ll add direct repo links and short READMEs for each.)
 
 ---
 
@@ -45,11 +38,4 @@ I build modern, practical web apps and small desktop tools. Comfortable across f
 - Email: mohammedserraj@yahoo.com  
 - GitHub: `github.com/MohammedSerraj`
 
----
 
-## ⚡ Want this instead?
-- Minimal technical resume style (one-liner + badges)  
-- More personality (fun facts, hobbies, music)  
-- Localized (French / Arabic) version
-
-Tell me which vibe: **minimal**, **dev-resume**, or **friendly + badges** — I’ll spit out that exact variant.
