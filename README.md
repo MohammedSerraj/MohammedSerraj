@@ -27,7 +27,7 @@ I build modern, practical web apps and small desktop tools. Comfortable across f
 ## 🚩 Languages
 - English —   (B1-B2)
 - French —   (B1-B2)
-- Spanish — A2 (learning)
+- Spanish — (B1)
 
 
 
